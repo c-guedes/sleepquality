@@ -1,4 +1,6 @@
-Aplicativo feito com base a lição 6 # Room - SleepQualityTracker app[Android App Development in Kotlin course on Udacity](https://www.udacity.com/course/???).
+Aplicativo feito com base a lição 6 # Room - SleepQualityTracker app 
+
+[Android App Development in Kotlin course on Udacity](https://www.udacity.com/course/???).
 
 Utilização de algumas libs:
 * Room database
