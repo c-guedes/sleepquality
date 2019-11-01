@@ -1,24 +1,16 @@
 Aplicativo feito com base a lição 6 # Room - SleepQualityTracker app[Android App Development in Kotlin course on Udacity](https://www.udacity.com/course/???).
 
-## SleepQualityTracker
-
-The SleepQualityTracker app is a demo app that helps you collect information about your sleep. 
-* Start time
-* End time
-* Quality
-* Time slept
-
-This app demonstrates the following views and techniques:
+Utilização de algumas libs:
 * Room database
 * DAO
 * Coroutines
 
-It also uses and builds on the following techniques from previous lessons:
-* Transformation map
-* Data Binding in XML files
+Algumas técnicas abordadas de lições anteriores:
+* Mapa de transformação
+* Data Binding em arquivos XML
 * ViewModel Factory
-* Using Backing Properties to protect MutableLiveData
-* Observable state LiveData variables to trigger navigation
+* Uso de propiedades de apoio para proteção de MutableLiveData
+* Observable LiveData para a utilização do navigation
 
 ## Screenshots
 
